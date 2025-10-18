@@ -64,6 +64,6 @@ The goal of this project is to analyze **bike store data** to optimize sales str
 For any questions or feedback, feel free to connect:
 
 - **GitHub**: [MostafaOsama0](https://github.com/MostafaOsama0)
-- **LinkedIn**: [Mostafa Osama](https://www.linkedin.com/in/mustafaosama0)
+- **LinkedIn**: [Mostafa Osama](https://www.linkedin.com/in/mostafaosama0)
 - **Email**: [mostafaosama7213@gmail.com](mailto:mostafaosama7213@gmail.com)
 - **Phone**: +20 01271239591
